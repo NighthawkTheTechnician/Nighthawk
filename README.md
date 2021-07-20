@@ -11,6 +11,8 @@ Outside of the computer world. I enjoy playing several musical instruments, such
 bass, drums, electric guitar, and piano. Then there is reading books based on: complex mathematics...
 data structures and algorithms, poetry, or things that peak genuine interest.
 
+---
+
 ##### Informative details about me:
 
 * Founder of: [https://github.com/Synterra-Technologies]
