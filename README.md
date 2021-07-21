@@ -11,7 +11,7 @@ Outside of the computer world. I enjoy playing several musical instruments, such
 ##### Informative details about me:
 
 * __Founder of__: [https://github.com/Synterra-Technologies]
-* __Contact Information__: [LoughFSMx200498@gmail.com]
+* __Contact Information__: [LoughFSMx200498@gmail.com](mailto: LoughFSMx200498@icloud.com)
 * __Programming languages and tools__: [exe]
 
 ---
